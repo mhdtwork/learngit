@@ -12,6 +12,7 @@ Mike 完成了功能9！
 issure 007 is fixed:mike.
 mike 1..2..qqqqqqqqqqqqqq
 mike 完成了功能10！
+Jerry 完成了功能11！
 mike 完成了功能12！
 
 
